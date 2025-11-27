@@ -1,0 +1,5 @@
+{
+  "name": "Copy of AswaMithra Polling Dashboard",
+  "description": "A high-performance React application leveraging Google Gemini 2.5 Flash to extract, digitize, and search voter information from Electoral Roll PDFs, including Telugu language support and photo extraction.",
+  "requestFramePermissions": []
+}
